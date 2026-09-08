@@ -71,7 +71,6 @@ Meu diferencial é conectar **conhecimento de domínio, processos, dados e tecno
 
 ⭐ Obrigada por visitar meu perfil!
 
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -80,18 +79,23 @@ Meu diferencial é conectar **conhecimento de domínio, processos, dados e tecno
     src="https://github-readme-stats.vercel.app/api?username=madelosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="GitHub Stats"
   />
-## 📊 GitHub Analytics
 
-<p align="left">
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelosa&layout=compact&theme=tokyonight&hide_border=true"
+ alt="Top Languages"
+/>
+
+</p>
+
+<p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=madelosa&show_icons=true&theme=tokyonight&count_private=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=madelosa&layout=compact&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=madelosa&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
+
+
 > **Tecnologia orientada a negócio, processos e dados.**
 
 Meu foco é desenvolver soluções que conectem **conhecimento de negócio, análise de processos, dados e tecnologia**, transformando necessidades reais em sistemas, indicadores e informações para apoiar decisões.
