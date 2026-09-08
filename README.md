@@ -1,9 +1,11 @@
 ## Olá, eu sou Madelosa 👋
 ### Maria de los Angeles Moreno
+**💻 Desenvolvedora |🗄️Processos & Tecnologia|🤖 IA | 🚀 Criador de Projetos**
 
-**Domain Knowledge • Data • Technology • Inteligência Artificial**
+Bem-vindo ao meu perfil!
+Sou apaixonada por tecnologia e desenvolvimento de sistemas.
 
-Profissional com trajetória multidisciplinar em **Contabilidade, Enfermagem internacional Tecnologia **, atualmente iniciando minha formação em **Análise de Dados com Python** e concluindo minha formação em **Java com Spring Boot**.
+Profissional com trajetória multidisciplinar em **Contabilidade & Enfermagem internacional**, atualmente iniciando minha formação em **Análise de Dados com Python** e concluindo minha formação em **Java com Spring Boot**.
 
 Tenho interesse em utilizar tecnologia e dados para transformar informações em conhecimento, apoiar decisões e desenvolver soluções para problemas reais.
 
