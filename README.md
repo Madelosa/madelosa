@@ -96,8 +96,5 @@ Meu diferencial é conectar **conhecimento de domínio, processos, dados e tecno
 </p>
 
 
-> **Tecnologia orientada a negócio, processos e dados.**
-
-Meu foco é desenvolver soluções que conectem **conhecimento de negócio, análise de processos, dados e tecnologia**, transformando necessidades reais em sistemas, indicadores e informações para apoiar decisões.
 
 
